@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheprocess",
+        "uuid": 16447106,
+        "checksum": "spbwv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
